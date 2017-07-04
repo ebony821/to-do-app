@@ -45,3 +45,8 @@ group :development do
   gem 'spring'
 end
 
+# ********************Our GEMS***************************
+gem 'bootstrap-sass'
+gem 'font-awesome-rails'
+gem 'simple_form'
+gem 'bootstrap-datepicker-rails'
